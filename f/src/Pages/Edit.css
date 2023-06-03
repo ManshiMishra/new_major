@@ -1,0 +1,35 @@
+.edit-box{
+    width: 100vw;
+    height: 80vh;
+}
+.edit-box h1{
+    font-size: 30px;
+    font-weight:bold;
+    color: rgb(105, 8, 8);
+    margin:5% auto;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+}
+.edit-box label{
+    font-size: 20px;
+    font-weight:bold;
+    color: black;
+    margin:1% auto;
+    text-transform:uppercase;
+}
+.btn-default-edit{
+    background-color: #da2e2e;
+    color: white;
+    gap: 15px;
+    font-size: 12px;
+    border-radius: 8px;
+    margin: 10px;
+    width: 30%;
+}
+.form-top-edit{
+    margin:20px;
+    padding: 25px;
+    border: 2px solid rgb(245, 144, 161);
+    border-radius: 5px;
+}

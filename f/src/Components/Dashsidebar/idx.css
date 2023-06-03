@@ -1,0 +1,62 @@
+.Dashsidebar{
+    flex: 1;
+    height: 100vh;
+    background-color: rgb(247, 242, 232);
+    position: sticky;
+    /* top: 50px; */
+}
+.dashlogo img{
+    position: relative;
+   margin-top:10px;
+   margin-bottom:10px;
+   text-align: center;
+   border-radius: 50%;
+   width: 120px;
+   height: 130px;
+   /* border: 2px solid crimson; */
+}
+.sidebarName{
+  font-size: 25px;
+  font-weight: bolder;
+  color: black;
+}
+/* .sidebarWrapper {
+    padding: 30px;
+    color: rgb(14, 3, 3);
+    text-align: center;
+  } */
+  
+  .sidebarMenu {
+    margin-bottom: 20px;
+    
+  }
+  
+  .sidebarTitle {
+    font-size: 30px;
+    color: black;
+  }
+  
+  .sidebarList {
+    list-style: none;
+    padding: 5px;
+    /* text-decoration: none; */
+  }
+  .sidebarListItem {
+    padding: 5px;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(7, 7, 7);
+    justify-content: center;
+  }
+  .nav-link0{
+
+      text-decoration: none;
+      padding: 2%;
+      color: black;
+  }
+  
